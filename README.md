@@ -1,7 +1,7 @@
 # seoul-temperature
 
-These last few days were extremely HOT in Seoul! 
-To know 'Does the recent weather have little precedent in several decades', I anlyzed data from [Korea Meteorological Administration](https://data.kma.go.kr/resources/html/en/aowdp.html)
+These last few days were extremely HOT in Seoul! </br> 
+To know 'Does the recent weather have little precedent in several decades', I analyzed data from [Korea Meteorological Administration](https://data.kma.go.kr/resources/html/en/aowdp.html)
 
 ## 1. Bar race animation with 2011-2021 heat index data of Seoul
 ![gganim_en](https://user-images.githubusercontent.com/76188991/126602883-17e92ad8-1d59-4b2f-83d1-b405e535474a.gif)
